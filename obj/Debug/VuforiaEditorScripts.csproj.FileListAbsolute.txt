@@ -1,0 +1,2 @@
+C:\Users\Marius\Desktop\UnityProject\Pazink-gydytoja\Testas\obj\Debug\VuforiaEditorScripts.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\UnityProject\Pazink-gydytoja\Testas\obj\Debug\VuforiaEditorScripts.csproj.CoreCompileInputs.cache
